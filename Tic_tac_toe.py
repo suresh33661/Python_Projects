@@ -1,3 +1,8 @@
+# Tic toe game 
+# It is played between two players
+# either two humans or human and computer
+
+
 import random
 
 board = ["_", "_", "_",
