@@ -1,3 +1,4 @@
+# import random module
 import random
 
 print('\n')
@@ -31,3 +32,4 @@ while length != n:
 
 print('\n')
 print(password)
+# print password
