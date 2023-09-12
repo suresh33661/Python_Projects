@@ -19,7 +19,7 @@ def playerin(board):
     else:
         print("Invalid input or position already taken. Try again.")
 
-def checkhori(board):
+def checkhorizontal(board):
     global winner
     if board[0] == board[1] == board[2] and board[1] != "_":
         winner = board[0]
